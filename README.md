@@ -22,7 +22,7 @@ tlink pong.obj
 pong.exe
 ```
 3. Seleccionar el modo de juego preferido
-[](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_inicio_ponj.png)
-[](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_juego_ponj.png)
-[](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_fin_ponj.png)
+[inicio](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_inicio_ponj.png)
+[juego](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_juego_ponj.png)
+[fin](https://github.com/RGJG28/Pong_in_assembly/blob/main/images/pantalla_fin_ponj.png)
 
